@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0FFEECBB-E725-456C-8841-31528FC73EAE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C22F619-5AE0-4E04-9D54-2D365DDB2A38"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Counter/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1C22F619-5AE0-4E04-9D54-2D365DDB2A38 - 193aae6022e566ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.counterReadings.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanryabov/Documents/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "1C22F619-5AE0-4E04-9D54-2D365DDB2A38 - 9e911fee17e362de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.counterReadings.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanryabov/Documents/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "1C22F619-5AE0-4E04-9D54-2D365DDB2A38 - 113f0d92807cd9cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.counterReadings.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanryabov/Documents/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "1C22F619-5AE0-4E04-9D54-2D365DDB2A38 - 33d24c6ae24d02ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.counterReadings.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanryabov/Documents/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "1C22F619-5AE0-4E04-9D54-2D365DDB2A38 - ff8ce458fcd460a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Counter.ViewController"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanryabov/Documents/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "1C22F619-5AE0-4E04-9D54-2D365DDB2A38 - 57f11d5479c58574"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Counter.ViewController&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanryabov/Documents/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "1C22F619-5AE0-4E04-9D54-2D365DDB2A38 - 193aae6022e5650c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.counterReadings.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanryabov/Documents/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "1C22F619-5AE0-4E04-9D54-2D365DDB2A38 - 9e911fee17e36118"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.counterReadings.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanryabov/Documents/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "1C22F619-5AE0-4E04-9D54-2D365DDB2A38 - 113f0d92807cda09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.counterReadings.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanryabov/Documents/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "1C22F619-5AE0-4E04-9D54-2D365DDB2A38 - 33d24c6ae24d0139"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.counterReadings.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanryabov/Documents/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "1C22F619-5AE0-4E04-9D54-2D365DDB2A38 - ff8ce458fcd45cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Counter.ViewController"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanryabov/Documents/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "1C22F619-5AE0-4E04-9D54-2D365DDB2A38 - 57f11d5479c586b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Counter.ViewController&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanryabov/Documents/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
